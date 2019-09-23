@@ -1,0 +1,11 @@
+mysql:
+  charset: utf8
+  db: go_mega
+  host: localhost
+  password: 123456
+  user: root
+mail:
+  smtp: smtp.126.com
+  smtp-port: 25
+  user: rayhwong@126.com
+  password: ray126
